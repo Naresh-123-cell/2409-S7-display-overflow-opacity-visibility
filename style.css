@@ -1,0 +1,88 @@
+#mainHeading{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+
+#chiruHeading{
+    color: blue;
+}
+
+#chiruPic{
+    width: 300px;
+}
+
+#chiruDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
+
+#arjunHeading{
+    color: indigo;
+    text-align: right;
+    width: 1200px;
+}
+#arjunPic{
+    width: 300px;
+}
+
+#arjunDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
+
+#maheshHeading{
+    color: red;
+}
+
+#maheshPic{
+    width: 300px;
+}
+
+#maheshDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
+
+#ntrHeading{
+    color:magenta;
+    text-align: right;
+    width: 1200px;
+}
+
+#ntrPic{
+    width: 300px;
+}
+
+#ntrDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
+
+#naniHeading{
+    color: orange;
+}
+
+#naniPic{
+    width: 300px;
+}
+
+#naniDesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
